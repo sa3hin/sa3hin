@@ -1,8 +1,10 @@
-- Rajasthan India <3
-  Bug Hunter
+### whoami
+- Rajasthan India <3  
+  Bug Hunter  
   Cybersecurity
-
-- (Twitter)[https://twitter.com/shinchina_]
+  
+- (Twitter)[https://twitter.com/shinchina_]  
   (Telegram)[https://t.me/shinchina]
 
-\\\1337///
+### code
+    1337
