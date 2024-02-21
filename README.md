@@ -1,10 +1,8 @@
-### whoami
-- Rajasthan India <3  
-  Bug Hunter  
-  [shinchina.in](https://shinchina.in)  
+I am Sachin from Rajasthan India \
+I do bug hunting
 
-- [Twitter](https://twitter.com/shinchina_)  
-  [Telegram](https://t.me/shinchina)
+[shinchina.in](https://shinchina.in) \
+[t.co](https://twitter.com/shinchina_) \
+[t.me](https://t.me/shinchina)
 
-### code
-    1337
+Gangadhar hi Shaktimaan hai
